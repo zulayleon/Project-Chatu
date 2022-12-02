@@ -1,1 +1,2 @@
-console.error("f");
+console.error("fabricar");
+console.log("dia de fiesta")
